@@ -1,6 +1,6 @@
 # fast month boundary
 
-we present a fresh take on a very old and ubiqutous problem: it is very innefficient to represent dates of Gregorian calendar in computer memory in a way most humans are accustomed to perceive them. for instance, there is galaxy of ways to write down `February 1st, 1981` in some human-readable format, e.g. `020181`, `1981-02-01` or "1-e февраля 1981 года н.э." but none of them are good for a computer to store and perform efficient arithmetic on them. for that reason, computers usually do it differently.
+we present a fresh take on a very old and ubiqutous problem: it is very inefficient to represent dates of Gregorian calendar in computer memory in a way most humans are accustomed to perceive them. for instance, there is galaxy of ways to write down `February 1st, 1981` in some human-readable format, e.g. `020181`, `1981-02-01` or "1-e февраля 1981 года н.э." but none of them are good for a computer to store and perform efficient arithmetic on them. for that reason, computers usually do it differently.
 
 ## epoch date
 
